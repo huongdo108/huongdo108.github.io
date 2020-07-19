@@ -185,6 +185,14 @@ a.sidebar-nav-item:focus {
 .theme-base-08 .related-posts li a:hover {
   color: #ac4142;
 }
+/* Red Gradient*/
+.theme-base-18 .sidebar {
+  background-image: linear-gradient(red, yellow);
+}
+.theme-base-08 .content a,
+.theme-base-08 .related-posts li a:hover {
+  color: #ac4142;
+}
 
 /* Orange */
 .theme-base-09 .sidebar {
