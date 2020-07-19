@@ -186,21 +186,21 @@ a.sidebar-nav-item:focus {
   color: #ac4142;
 }
 /* Pink*/
-.theme-base-18 .sidebar {
+.theme-base-19 .sidebar {
   /*background-image: linear-gradient(red, yellow);*/
   background-color: #f3abb6;
 }
-.theme-base-18 .content a,
-.theme-base-18 .related-posts li a:hover {
+.theme-base-19 .content a,
+.theme-base-19 .related-posts li a:hover {
   color: #f3abb6;
 }
 
 /* Ocean*/
-.theme-base-19 .sidebar {
+.theme-base-18 .sidebar {
   background-image: linear-gradient(#0d5c75, #199fb1, #a5d1e1);
 }
-.theme-base-19 .content a,
-.theme-base-19 .related-posts li a:hover {
+.theme-base-18 .content a,
+.theme-base-18 .related-posts li a:hover {
   color: #f3abb6;
 }
 
