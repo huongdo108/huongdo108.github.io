@@ -196,8 +196,17 @@ a.sidebar-nav-item:focus {
 }
 
 /* Ocean*/
-.theme-base-18 .sidebar {
+.theme-base-20 .sidebar {
   background-image: linear-gradient(#0d5c75, #199fb1, #a5d1e1);
+}
+.theme-base-20 .content a,
+.theme-base-20 .related-posts li a:hover {
+  color: #f3abb6;
+}
+
+/* Desert*/
+.theme-base-18 .sidebar {
+  background-image: linear-gradient(#304655, #b59283, #e5d4cd);
 }
 .theme-base-18 .content a,
 .theme-base-18 .related-posts li a:hover {
