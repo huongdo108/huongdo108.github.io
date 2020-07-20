@@ -205,8 +205,17 @@ a.sidebar-nav-item:focus {
 }
 
 /* Desert*/
-.theme-base-18 .sidebar {
+.theme-base-21 .sidebar {
   background-image: linear-gradient(#304655, #b59283, #e5d4cd);
+}
+.theme-base-21 .content a,
+.theme-base-21 .related-posts li a:hover {
+  color: #f3abb6;
+}
+
+/* Image*/
+.theme-base-18 .sidebar {
+  background-image:  url("https://github.com/huongdo108/huongdo108.github.io/blob/master/assets/images/9.jpg") ;
 }
 .theme-base-18 .content a,
 .theme-base-18 .related-posts li a:hover {
