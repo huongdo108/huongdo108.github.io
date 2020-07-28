@@ -8,6 +8,7 @@ title: Data Science Portfolio
 
 
 * Movie Recommendation System 
+#### Tools: Pytorch, Django
 
 
 ### Natural Language Processing
@@ -15,7 +16,7 @@ title: Data Science Portfolio
 
 * Sentiment Analysis with LSTM, BERT, XLNet
 
-
+#### Tools: Pytorch, Django
 
 ### Deep Learning
 
