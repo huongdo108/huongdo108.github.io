@@ -18,7 +18,10 @@ title: Data Science Portfolio
 ### Deep Learning
 
 
-* Image Classification
+* Convolutional Neural Network
+  * LENET
+  * VGG
+  * RESNET
 
 
 
