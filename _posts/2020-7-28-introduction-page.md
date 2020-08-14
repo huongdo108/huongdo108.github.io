@@ -13,15 +13,15 @@ title: Data Science Portfolio
 ### Natural Language Processing
 
 
-* Sentiment Analysis with LSTM, BERT, XLNet (*Tools: Pytorch, Django*)
+* <a href="https://github.com/huongdo108/sentiment-analysis-LSTM-BERT-XLNet">Sentiment Analysis with LSTM, BERT, and XLNet  (*Tools: Pytorch, Django*)  </a>
 
 ### Deep Learning
 
 
-* Convolutional Neural Network
-  * LENET
-  * VGG
-  * RESNET
+* Convolutional Neural Network with LENET, VGG, and RESNET
+  * <a href="https://github.com/huongdo108/image-classification-LENET-VGG-RESNET">Image Classification with LENET, VGG, and RESNET</a>
+  * Mini project: deploy dog breed prediction model using VGG16 and Django 
+  
 
 
 
