@@ -13,14 +13,14 @@ title: Data Science Portfolio
 ### Natural Language Processing
 
 
-* <a href="https://github.com/huongdo108/sentiment-analysis-LSTM-BERT-XLNet">Sentiment Analysis with LSTM, BERT, and XLNet  (*Tools: Pytorch, Django*)  </a>
+* <a href="https://github.com/huongdo108/sentiment-analysis-LSTM-BERT-XLNet">Sentiment Analysis with LSTM, BERT, and XLNet  (*Tools: Pytorch*)  </a>
 
 ### Deep Learning
 
 
-* Convolutional Neural Network with LENET, VGG, and RESNET
+* Convolutional Neural Network
   * <a href="https://github.com/huongdo108/image-classification-LENET-VGG-RESNET">Image Classification with LENET, VGG, and RESNET</a>
-  * Mini project: deploy dog breed prediction model using VGG16 and Django 
+  * Mini project: deploy dog breed prediction model with VGG16 and Django 
   
 
 
@@ -28,7 +28,7 @@ title: Data Science Portfolio
 ### Data Analysis and Visualization
 
 
-* Covid-19 Dashboard with Dash
+*  <a href="https://github.com/huongdo108/covid-19-dashboard">Covid-19 Dashboard with Dash</a>
 
 
 ### Data Engineering
