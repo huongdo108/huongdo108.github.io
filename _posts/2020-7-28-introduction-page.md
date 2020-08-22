@@ -17,7 +17,7 @@ title: Data Science Portfolio
   * <a href="https://github.com/huongdo108/image-classification-LENET-VGG-RESNET">Image Classification with LENET, VGG, and RESNET</a>
   * <a href="https://github.com/huongdo108/deploy-dog-breed-prediction-model-VGG16-Django">Project: deploy dog breed prediction model with VGG16 and Django </a>
 * Recurrent Neural Network
-  * <a href="https://github.com/huongdo108/machine-translation-RNN">Machine translation with RNN</a>
+  * <a href="https://github.com/huongdo108/machine-translation-RNN">Neural machine translation with RNN</a>
   
   
 
