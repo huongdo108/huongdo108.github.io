@@ -4,11 +4,6 @@ title: Data Science Portfolio
 ---
 
 
-### Machine Learning
-
-
-* Movie Recommendation System (*Tools: Pytorch, Django*)
-
 
 ### Natural Language Processing
 
@@ -20,7 +15,8 @@ title: Data Science Portfolio
 
 * Convolutional Neural Network
   * <a href="https://github.com/huongdo108/image-classification-LENET-VGG-RESNET">Image Classification with LENET, VGG, and RESNET</a>
-  * Mini project: deploy dog breed prediction model with VGG16 and Django 
+  * <a href="https://github.com/huongdo108/deploy-dog-breed-prediction-model-VGG16-Django">Project: deploy dog breed prediction model with VGG16 and Django </a>
+  
   
 
 
@@ -33,4 +29,4 @@ title: Data Science Portfolio
 
 ### Data Engineering
 
-* ETL pipeline of US immigration in 2016
+* <a href="https://github.com/huongdo108/ETL-pipeline-US-immigration-Airflow-AWSETL">Project: ETL pipeline of US immigration with Airflow and AWS</a>
