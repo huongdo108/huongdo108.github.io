@@ -3,6 +3,9 @@ layout: post
 title: Data Science Portfolio
 ---
 
+### Data Engineering
+
+* <a href="https://github.com/huongdo108/ETL-pipeline-US-immigration-Airflow-AWS">Project: ETL pipeline of US immigration with Airflow, Pyspark, AWS S3, EMR, and Redshift</a>
 
 
 ### Natural Language Processing
@@ -18,10 +21,10 @@ title: Data Science Portfolio
   * <a href="https://github.com/huongdo108/deploy-dog-breed-prediction-model-VGG16-Django">Project: deploy dog breed prediction model with VGG16 and Django </a>
 * Recurrent Neural Network
   * <a href="https://github.com/huongdo108/machine-translation-RNN">Neural machine translation with RNN</a>
+* Transformer
+  * <a href="https://github.com/huongdo108/neural-machine-translation-Transformer">Neural machine translation with Transformer</a>
   
   
-
-
 
 ### Data Analysis and Visualization
 
@@ -29,6 +32,3 @@ title: Data Science Portfolio
 *  <a href="https://github.com/huongdo108/covid-19-dashboard">Covid-19 Dashboard with Dash</a>
 
 
-### Data Engineering
-
-* <a href="https://github.com/huongdo108/ETL-pipeline-US-immigration-Airflow-AWS">Project: ETL pipeline of US immigration with Airflow, Pyspark, AWS S3, EMR, and Redshift</a>
