@@ -31,4 +31,4 @@ title: Data Science Portfolio
 
 ### Data Engineering
 
-* <a href="https://github.com/huongdo108/ETL-pipeline-US-immigration-Airflow-AWS">Project: ETL pipeline of US immigration with Airflow and AWS</a>
+* <a href="https://github.com/huongdo108/ETL-pipeline-US-immigration-Airflow-AWS">Project: ETL pipeline of US immigration with Airflow, Pyspark, AWS S3, EMR, and Redshift</a>
