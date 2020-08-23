@@ -26,3 +26,6 @@ github:
   
 linkedin:
   repo:           https://www.linkedin.com/in/huong-do-4962346b/
+  
+certificate:
+  repo:           https://github.com/huongdo108/ETL-pipeline-US-immigration-Pyspark-Airflow-AWS/blob/master/Udacity_data_engineering_nanodegree_certificate.PNG
