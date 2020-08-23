@@ -23,6 +23,9 @@ title: Data Science Portfolio
   * <a href="https://github.com/huongdo108/machine-translation-RNN">Neural machine translation with RNN</a>
 * Transformer
   * <a href="https://github.com/huongdo108/neural-machine-translation-Transformer">Neural machine translation with Transformer</a>
+* Generative Adversarial Networks
+  * <a href="https://github.com/huongdo108/generate-dataset-with-DCGAN--WGAN-GP">Generate dataset with Deep Convolutional GAN (DCGAN) and Wasserstein GAN with gradient penalty (WGAN-GP)</a>
+  
   
   
 
