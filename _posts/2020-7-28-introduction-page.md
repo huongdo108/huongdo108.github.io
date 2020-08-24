@@ -11,7 +11,7 @@ title: Data Science Portfolio
 ### Natural Language Processing
 
 
-* <a href="https://github.com/huongdo108/sentiment-analysis-LSTM-BERT-XLNet">Sentiment Analysis with LSTM, BERT, and XLNet  (*Tools: Pytorch*)  </a>
+* <a href="https://github.com/huongdo108/sentiment-analysis-LSTM-BERT-XLNet">Sentiment Analysis with LSTM, BERT, and XLNet </a>
 
 ### Deep Learning
 
@@ -23,9 +23,11 @@ title: Data Science Portfolio
   * <a href="https://github.com/huongdo108/machine-translation-RNN">Neural machine translation with RNN</a>
 * Transformer
   * <a href="https://github.com/huongdo108/neural-machine-translation-Transformer">Neural machine translation with Transformer</a>
-* Generative Adversarial Networks
+* Generative Adversarial Network
   * <a href="https://github.com/huongdo108/generate-dataset-with-DCGAN--WGAN-GP">Generate dataset with Deep Convolutional GAN (DCGAN) and Wasserstein GAN with gradient penalty (WGAN-GP)</a>
   
+* Autoencoder
+  * <a href="https://github.com/huongdo108/Bottleneck-Denoising-Variational-Autoencoders">Learn data representation with three types of autoencoder: Bottleneck, Denoising and Variational</a>
   
   
 
