@@ -29,6 +29,9 @@ title: Data Science Portfolio
 * Autoencoder
   * <a href="https://github.com/huongdo108/Bottleneck-Denoising-Variational-Autoencoders">Learn data representation with three types of autoencoder: Bottleneck, Denoising and Variational</a>
   
+* Autoregressive Generative Models
+  * <a href="https://github.com/huongdo108/autoregressive-generative-model-PixelCNN-ConditionalPixelCNN">Generate samples with PixelCNN and Conditional PixelCNN</a>
+  
   
 
 ### Data Analysis and Visualization
