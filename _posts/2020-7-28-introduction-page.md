@@ -31,6 +31,10 @@ title: Data Science Portfolio
   
 * Autoregressive Generative Models
   * <a href="https://github.com/huongdo108/autoregressive-generative-model-PixelCNN-ConditionalPixelCNN">Generate samples with PixelCNN and Conditional PixelCNN</a>
+
+* Graph Neural Networks
+  * <a href="https://github.com/huongdo108/graph-neural-networks-solve-sudoku">Solve Sudoku with graph neural network</a>
+
   
   
 
