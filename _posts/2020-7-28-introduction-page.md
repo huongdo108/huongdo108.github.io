@@ -13,6 +13,12 @@ title: Data Science Portfolio
 
 * <a href="https://github.com/huongdo108/sentiment-analysis-LSTM-BERT-XLNet">Sentiment Analysis with LSTM, BERT, and XLNet </a>
 
+### Data Analysis and Visualization
+
+
+*  <a href="https://github.com/huongdo108/covid-19-dashboard">Covid-19 Dashboard with Dash</a>
+*  <a href="https://github.com/huongdo108/youtube-api-data-analysis">Project: Youtube Data Analysis with Youtube API (in progress)</a>
+
 ### Deep Learning
 
 
@@ -38,9 +44,6 @@ title: Data Science Portfolio
   
   
 
-### Data Analysis and Visualization
 
-
-*  <a href="https://github.com/huongdo108/covid-19-dashboard">Covid-19 Dashboard with Dash</a>
 
 
