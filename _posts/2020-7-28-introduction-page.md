@@ -18,6 +18,7 @@ title: Data Science Portfolio
 
 *  <a href="https://github.com/huongdo108/covid-19-dashboard">Covid-19 Dashboard with Dash</a>
 *  <a href="https://github.com/huongdo108/time-series-analysis-Google-stock">Time series analysis with Google stock (ARIMA, SARIMA, GARCH, and neural network models)</a>
+*  <a href="https://github.com/huongdo108/employee-attrition-analysis">Employee attrition rate: data exploratory analysis and classification models</a>
 *  <a href="https://github.com/huongdo108/youtube-api-data-analysis">Project: Youtube Data Analysis with Youtube API (in progress)</a>
 
 
